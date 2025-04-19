@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configs>
+    <append xpath="/buffs">
+        <buff name="feralCombatSenseBuff" duration="90" stackable="false" visible="false">
+            <modify stat="ZombieSense" value="2" />
+            <triggered_effect trigger="onBuffStart" action="SoundAlert" range="60" duration="3" tags="zombie" />
+            <triggered_effect trigger="onSelfUpdate" action="ModifyCVar" cvar="feralCombatSenseActive" operation="set" value="1" />
+            <triggered_effect trigger="onSelfBuffRemove" action="ModifyCVar" cvar="feralCombatSenseActive" operation="set" value="0" />
+        </buff>
+    </append>
+</configs>

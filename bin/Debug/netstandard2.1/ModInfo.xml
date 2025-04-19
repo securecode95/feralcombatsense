@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml>
+    <Version value="1.4" />
+    <Name value="FeralCombatSense" />
+    <DisplayName value="Feral Sense Combat Mod" />
+    <Description value="Overhauls feral sense" />
+    <Author value="RetroBalder" />
+    <Website value="https://github.com/YourModLinkOrLeaveBlank" />
+    <ModFolder value="FeralCombatSenseMod" />
+</xml>
