@@ -1,0 +1,5 @@
+/home/retrobalder/Mods_Dev/FeralCombatSenseMod/obj/Debug/netstandard2.0/FeralCombatSenseMod.csproj.AssemblyReference.cache
+/home/retrobalder/Mods_Dev/FeralCombatSenseMod/obj/Debug/netstandard2.0/FeralCombatSenseMod.GeneratedMSBuildEditorConfig.editorconfig
+/home/retrobalder/Mods_Dev/FeralCombatSenseMod/obj/Debug/netstandard2.0/FeralCombatSenseMod.AssemblyInfoInputs.cache
+/home/retrobalder/Mods_Dev/FeralCombatSenseMod/obj/Debug/netstandard2.0/FeralCombatSenseMod.AssemblyInfo.cs
+/home/retrobalder/Mods_Dev/FeralCombatSenseMod/obj/Debug/netstandard2.0/FeralCombatSenseMod.csproj.CoreCompileInputs.cache

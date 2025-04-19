@@ -1,0 +1,15 @@
+/home/retrobalder/Mods_Dev/FeralCombatSenseMod/obj/Debug/netstandard2.1/FeralCombatSenseMod.csproj.AssemblyReference.cache
+/home/retrobalder/Mods_Dev/FeralCombatSenseMod/obj/Debug/netstandard2.1/FeralCombatSenseMod.GeneratedMSBuildEditorConfig.editorconfig
+/home/retrobalder/Mods_Dev/FeralCombatSenseMod/obj/Debug/netstandard2.1/FeralCombatSenseMod.AssemblyInfoInputs.cache
+/home/retrobalder/Mods_Dev/FeralCombatSenseMod/obj/Debug/netstandard2.1/FeralCombatSenseMod.AssemblyInfo.cs
+/home/retrobalder/Mods_Dev/FeralCombatSenseMod/obj/Debug/netstandard2.1/FeralCombatSenseMod.csproj.CoreCompileInputs.cache
+/home/retrobalder/Mods_Dev/FeralCombatSenseMod/bin/Debug/netstandard2.1/FeralCombatSenseMod.deps.json
+/home/retrobalder/Mods_Dev/FeralCombatSenseMod/bin/Debug/netstandard2.1/FeralCombatSenseMod.dll
+/home/retrobalder/Mods_Dev/FeralCombatSenseMod/bin/Debug/netstandard2.1/FeralCombatSenseMod.pdb
+/home/retrobalder/Mods_Dev/FeralCombatSenseMod/bin/Debug/netstandard2.1/0Harmony.dll
+/home/retrobalder/Mods_Dev/FeralCombatSenseMod/bin/Debug/netstandard2.1/Assembly-CSharp.dll
+/home/retrobalder/Mods_Dev/FeralCombatSenseMod/bin/Debug/netstandard2.1/UnityEngine.CoreModule.dll
+/home/retrobalder/Mods_Dev/FeralCombatSenseMod/bin/Debug/netstandard2.1/UnityEngine.dll
+/home/retrobalder/Mods_Dev/FeralCombatSenseMod/obj/Debug/netstandard2.1/FeralCom.58613979.Up2Date
+/home/retrobalder/Mods_Dev/FeralCombatSenseMod/obj/Debug/netstandard2.1/FeralCombatSenseMod.dll
+/home/retrobalder/Mods_Dev/FeralCombatSenseMod/obj/Debug/netstandard2.1/FeralCombatSenseMod.pdb
