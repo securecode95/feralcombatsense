@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FeralCombatSense")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cb8fdc7e4de8de8d8d58db50ccb9cfd176010427")]
 [assembly: System.Reflection.AssemblyProductAttribute("FeralCombatSense")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FeralCombatSense")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
